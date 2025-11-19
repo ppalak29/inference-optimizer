@@ -1,0 +1,15 @@
+{"timestamp": "2024-01-15T10:30:00", "prompt": "What is 2+2?", "model": "gpt-3.5-turbo", "tokens": 60, "cost": 0.12}
+{"timestamp": "2024-01-15T10:31:00", "prompt": "Explain quantum physics in detail", "model": "gpt-4", "tokens": 3500, "cost": 10.5}
+{"timestamp": "2024-01-15T10:32:00", "prompt": "What is 2+2?", "model": "gpt-3.5-turbo", "tokens": 60, "cost": 0.12}
+{"timestamp": "2024-01-15T10:33:00", "prompt": "Write a haiku about coding", "model": "gpt-3.5-turbo", "tokens": 150, "cost": 0.3}
+{"timestamp": "2024-01-15T10:34:00", "prompt": "What is 2+2?", "model": "gpt-3.5-turbo", "tokens": 60, "cost": 0.12}
+{"timestamp": "2024-01-15T10:35:00", "prompt": "Translate this document to Spanish", "model": "gpt-4", "tokens": 2800, "cost": 8.4}
+{"timestamp": "2024-01-15T10:36:00", "prompt": "Explain recursion with examples", "model": "gpt-4", "tokens": 3200, "cost": 9.6}
+{"timestamp": "2024-01-15T10:37:00", "prompt": "What is 2+2?", "model": "gpt-3.5-turbo", "tokens": 60, "cost": 0.12}
+{"timestamp": "2024-01-15T10:38:00", "prompt": "Debug this React component code", "model": "gpt-4", "tokens": 4500, "cost": 13.5}
+{"timestamp": "2024-01-15T10:39:00", "prompt": "Summarize this 10 page article", "model": "gpt-4", "tokens": 5000, "cost": 15.0}
+{"timestamp": "2024-01-15T10:40:00", "prompt": "What is Python used for?", "model": "gpt-3.5-turbo", "tokens": 200, "cost": 0.4}
+{"timestamp": "2024-01-15T10:41:00", "prompt": "Explain machine learning", "model": "gpt-4", "tokens": 3800, "cost": 11.4}
+{"timestamp": "2024-01-15T10:42:00", "prompt": "What is 2+2?", "model": "gpt-3.5-turbo", "tokens": 60, "cost": 0.12}
+{"timestamp": "2024-01-15T10:43:00", "prompt": "Review this code for bugs", "model": "gpt-4", "tokens": 4200, "cost": 12.6}
+{"timestamp": "2024-01-15T10:44:00", "prompt": "What is 2+2?", "model": "gpt-3.5-turbo", "tokens": 60, "cost": 0.12}
