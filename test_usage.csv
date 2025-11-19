@@ -1,0 +1,16 @@
+timestamp,prompt,model,n_context_tokens_total,n_generated_tokens_total,cost
+2024-01-15T10:30:00Z,What is 2+2?,gpt-3.5-turbo,40,20,0.12
+2024-01-15T10:31:00Z,Explain quantum physics in detail,gpt-4,3000,500,10.50
+2024-01-15T10:32:00Z,What is 2+2?,gpt-3.5-turbo,40,20,0.12
+2024-01-15T10:33:00Z,Write a haiku about coding,gpt-3.5-turbo,100,50,0.30
+2024-01-15T10:34:00Z,What is 2+2?,gpt-3.5-turbo,40,20,0.12
+2024-01-15T10:35:00Z,Translate this document,gpt-4,2500,300,8.40
+2024-01-15T10:36:00Z,Explain recursion with examples,gpt-4,2800,400,9.60
+2024-01-15T10:37:00Z,What is 2+2?,gpt-3.5-turbo,40,20,0.12
+2024-01-15T10:38:00Z,Debug this React component,gpt-4,4000,500,13.50
+2024-01-15T10:39:00Z,Summarize this article,gpt-4,4500,500,15.00
+2024-01-15T10:40:00Z,What is Python used for?,gpt-3.5-turbo,150,50,0.40
+2024-01-15T10:41:00Z,Explain machine learning,gpt-4,3500,300,11.40
+2024-01-15T10:42:00Z,What is 2+2?,gpt-3.5-turbo,40,20,0.12
+2024-01-15T10:43:00Z,Review this code for bugs,gpt-4,3800,400,12.60
+2024-01-15T10:44:00Z,What is 2+2?,gpt-3.5-turbo,40,20,0.12
